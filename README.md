@@ -4,6 +4,7 @@
 ## Presentación Personal
 
 # Alan Ramirez
+(./fotoprueba)
 Hola me llamo **Alan Ramirez**, soy de **Hurlingham** y este cuatrimestre es el comienzo de mi tercer año estudiando la carrera de **Tec. en Programacion**, antes de comenzar la carrera jamas tuve un acercamiento "tecnico" a la programacion, asi que cada cuatrimestre tengo que moldearme a los dialectos y programas a usar (esto no es divertido es triste jaja), por lo cual cada acercamiento esta lleno de interes y **estres**
 el estar escribiendo esto mismo ya es una prueba y error buscando que sintaxis usa y cuales son sus propositos.
 
