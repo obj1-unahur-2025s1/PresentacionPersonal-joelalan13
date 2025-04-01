@@ -12,7 +12,7 @@ el estar escribiendo esto mismo ya es una prueba y error buscando que sintaxis u
 Aunque no haber tenido un acercamiento anterior a comenzar la carrera, esta no se me dificulto mas de lo que pensaba, aunque si tuve mis choques contra la pared mas de unas cien veces, cosa que pude resolver repasando o volviendome un bot de preguntas en los grupos de discord
 
 ## Gustos Personales
--Fuera de estudiar programacion me gusta mucho estar jugando en la pc, algo que soy "fan" de los juegos mas de cierto tipo como metroidvania, de estilo pixelart, rpg o juego mas antiguos
+-Fuera de estudiar programacion me gusta mucho estar jugando en la pc, algo que soy "fan" de los juegos mas de cierto tipo como metroidvania, de estilo pixelart, rpg o juego mas antiguos como algunos de la Game Boy Advance
 
 -Me gusta el anime, unos de mis favoritos es JOJO´S, nose si el cariño que le tengo es por sus diversas historias o por que fue mi acercamiento a canciones en ingles mayormente debido a la inspiracion que tienen estas sobre el anime
 
